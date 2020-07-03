@@ -1,0 +1,67 @@
+Header file.
+Header file.
+
+ERROR:Multiple Declaration Of (tb) 
+
+ERROR:Multiple Declaration Of (tc) 
+
+ERROR:Multiple Declaration Of (ts) 
+
+(ta)Value of the Variable === 5	
+
+ERROR:(tggg) not declared yet(First Time Use In This Function)
+Factorial value of 4 is 24
+5 is a prime number
+4 is a even number
+Value of If condition : 3 
+Single For Loop.
+While LOOP: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+For Loop
+Print 2 
+Print 3 
+Print 4 
+Print 5 
+For Loop...This for loop will works for LESSTHAN expression
+Result 1 
+Result 2 
+Result 3 
+Result 4 
+Result 5 
+
+For Loop...This for loop will works for GREATERTHAN expression
+Result 6 
+Result 5 
+Result 4 
+Result 3 
+Result 2 
+
+
+only else else true
+(te)Value of the Variable === 20	
+
+(td)Value of the Variable === 30	
+
+(tsum)Value of the Variable === 35	
+
+Power value 144
+
+(tres)Value of the Variable === 139	
+
+only else if true
+only else else true
+(ts)Value of the Variable === 1	
+
+Case No. : 1  and Result : 6 
+
+Power value 81
+
+Power value 144
+
+value of expression middle ELSE: 75
+
+value of expression in first IF: 5
+
+Power value 9
+
+value of expression in ELSE_IF: 1
+Program End.

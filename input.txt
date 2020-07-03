@@ -1,0 +1,113 @@
+adding stdio.h
+adding math.h
+
+program start((fbo(( ))fbc))
+{{sbo{{
+pinteger ta,comma,tb,comma,tc,comma,td,comma,tsum,comma,tres,comma,tf,comma,tp,comma,te,comma,ts,comma,tl,comma,tn;semicom;
+pfloat tb;semicom;
+pinteger trp;semicom;
+pdouble tc,comma,ts;semicom;
+ta =assign= 5;semicom;
+tggg =assign= 100;semicom;
+
+tf =assign= 4 !FACTORIALFUN!
+tr =assign= 5 PRIMEFUN
+trp =assign= 4 ODDEVENFUN
+
+either((fbo((2>>gt>>1))fbc))
+2 +add+ 1;semicom;
+or
+2 -sub-1;semicom;
+
+forcircle ((fbo(( tn =assign= 1;semicom; tn <<lt<< 6;semicom; tn +++  ))fbc));semicom;
+whilecircle ((fbo(( tf <<lt<< 30 ))fbc)) {{sbo{{ write tf;semicom; }}sbc}}
+forcircle ((fbo(( 2 :colon: 6 ))fbc)) {{sbo{{ 6 +add+2 }}sbc}}
+forcircle ((fbo(( tn =assign= 1;semicom; tn <<lt<< 6;semicom; tn +++ ))fbc)) {{sbo{{ write tn;semicom; }}sbc}}
+forcircle ((fbo(( tn =assign= 6;semicom; tn >>gt>> 1;semicom; tn --- ))fbc)) {{sbo{{ write tn;semicom; }}sbc}}
+
+
+
+either((fbo((2>>gt>>1))fbc))
+either((fbo((4>>gt>>5))fbc))
+ write 100;semicom;
+or 
+ write 5;semicom;
+
+te =assign= 20;semicom;
+td =assign= 30;semicom;
+tsum =assign= ta +add+ td;semicom;
+write tsum;semicom;
+tres =assign= 12 ^pow^ 2 -sub- 50 /div/ 10;semicom;
+write tres;semicom;
+
+
+
+
+
+
+
+either((fbo((2>>gt>>1))fbc))
+either((fbo((3<<lt<<4))fbc))
+either((fbo((6<<lt<<5))fbc))
+ write 100;semicom;
+or
+either((fbo((8>>gt>>7))fbc))
+ write 100;semicom;
+or
+ write 100;semicom;
+
+
+ts =assign= 1;semicom;
+switchon((fbo((ts))fbc)){{sbo{{
+      switchnumber 1 :colon: 4 +add+ 2;semicom;
+         switchoff;semicom;
+      switchnumber 2 :colon: 4 -sub- 2;semicom;
+         switchoff;semicom;
+      switchnumber 3 :colon: 4 *mul* 2;semicom;
+         switchoff;semicom;
+      switchnumber 4 :colon: 4 /div/ 2;semicom;
+         switchoff;semicom;
+      switchdefault :colon: 0;semicom;
+         switchoff;semicom;
+   }}sbc}}
+
+
+either ((fbo(( 13 >>gt>> 2 ))fbc))
+		{{sbo{{
+			either ((fbo(( 2 >>gt>> 13 ))fbc))
+			{{sbo{{
+				12 +add+ 9 -sub- 50 /div/ 10;semicom;
+			}}sbc}}
+			or
+			{{sbo{{
+				9 ^pow^ 2 -sub- 60 /div/ 10;semicom;
+			}}sbc}}
+			12 -sub- 2 -sub- 50 /div/ 10;semicom;
+			
+		}}sbc}}
+or
+		{{sbo{{
+			12 ^pow^ 2 -sub- 30 /div/ 10;semicom;
+		}}sbc}}
+		
+either ((fbo(( 7 <<lt<< 5 ))fbc))
+		{{sbo{{
+			12 +add+ 2 -sub- 50 /div/ 10;semicom;
+		}}sbc}}
+either_or ((fbo(( 2 >>gt>> 1 ))fbc))
+		{{sbo{{
+			12 /div/ 2 -sub- 5 *mul* 1;semicom;
+		}}sbc}} 
+or
+		{{sbo{{
+			3 ^pow^ 2 -sub- 50 /div/ 10;semicom;
+		}}sbc}}
+
+
+
+
+
+
+
+	
+}}sbc}}
